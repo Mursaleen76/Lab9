@@ -1,4 +1,5 @@
 
+
 const newsContainer = document.getElementById("news-container");
 
 fetch("https://hn.algolia.com/api/v1/search?tags=story&hitsPerPage=10")

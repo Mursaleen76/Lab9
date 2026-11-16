@@ -1,39 +1,38 @@
-
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
 }
 
 header {
-    background-color: #222;
-    color: white;
-    text-align: center;
-    padding: 25px;
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 25px;
 }
 
 main {
-    max-width: 900px;
-    margin: 30px auto;
-    padding: 15px;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 15px;
 }
 
 .news-card {
-    background: white;
-    padding: 20px;
-    margin-bottom: 15px;
-    border-radius: 8px;
+  background: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
 }
 
 .news-card h3 {
-    color: #222;
+  color: #222;
 }
 
 .news-card a {
-    color: #007bff;
-    text-decoration: none;
+  color: #007bff;
+  text-decoration: none;
 }
 
 .news-card a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
